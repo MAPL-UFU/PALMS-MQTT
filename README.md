@@ -1,4 +1,4 @@
-#  PALMS
+# ![PALMS LOGO](ico.ico) PALMS
 
 PALMS or PNRD/iPNRD Arduino Library Management System is a middleware able to integrate Petri net modeling tools (through the use of pnml exported file) with PNRD/iPNRD (Petri Net Inside RFID Database/ inverted PNRD). In this version of PALMS, it can be connected to as many Arduinos as available through MQTT connection. It is mandatory to use Ethernet Shield and one SD card. Each Ardunino Mega can connect up to three PN532 RFID readers. As internal structure, PALMS has two modes, it means, Setup and Runtime.
 
