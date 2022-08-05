@@ -1,7 +1,7 @@
 '''
 Created on Jan , 2022
-@author: Daniel
-git:  
+@author: Daniel Barbosa Pereira
+git: daniel-b-pereira
 '''
 import os
 import datetime
