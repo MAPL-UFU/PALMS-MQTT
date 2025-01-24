@@ -13,11 +13,18 @@ In the Runtume mode PALMS transfer the Petri Net information to the connected ar
 
 1. Install Python3
 
+    ```python
     sudo apt update
     sudo apt upgrade -y
     sudo apt install python3
+    ```
 
 2. Install PIP
+
+    ```python
+    pip install python3-pip
+    ```
+
 3. Install pip requirements
     ```python
     pip install -r requirements.txt
